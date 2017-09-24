@@ -7,9 +7,11 @@
 
 A 10 week course introducing students to basic coding skills and how to work with coders within an advertising agency or organization.
 
+
 ## Info
 * Instructor: Greg Leuch. Email: class@gleu.ch
 * Class Schedule: Mondays, 7 - 10pm
+
 
 ## Grading
 Grades will be determined according to the following breakdowns:
@@ -18,9 +20,11 @@ Grades will be determined according to the following breakdowns:
 * 20% Final Project 
 * 10% Presentation
 
+
 ## Assignments & Presentations
 * [Assignments by week](https://github.com/coding-for-creatives-winter-2017/class/wiki)
 * [Group presentation schedule](https://github.com/coding-for-creatives-winter-2017/class/wiki/Group-Presentation-Schedule)
+
 
 ## Resources
 
@@ -28,7 +32,8 @@ Grades will be determined according to the following breakdowns:
 
 
 ## Week by week 
-* [Rough Syllabus](#)
+
+This is an outline for each week of class. Details for each week are available in the corresponding assignment and notes wiki page.
 
 
 ***
@@ -41,11 +46,14 @@ Grades will be determined according to the following breakdowns:
   * input/process/memory/output (CPU & memory)
   * Software and hardware
   * Operating system, programs/apps
-  * Terminal/command line
+  * Terminal & command line
   * Client, server and browser
 * Assignment 0 review (HTML Q&A)
 * In-class setup demonstration
-	* Using Github via the command line 
+  * Signing up for Github
+  * Using Github & source control
+  * Terminal & command line
+
 
 [Week 01 Assignment & Notes](https://github.com/coding-for-creatives-winter-2017/class/wiki/Week-01)
 
@@ -54,7 +62,8 @@ Grades will be determined according to the following breakdowns:
 
 ### Week 02 (10/16)
 * Assignment review
-  * More on Github/terminal
+  * More on Github
+  * Terminal commands and usage
   * HTML/CSS Q&A
 * Reading discussion
 * More on the internet
