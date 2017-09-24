@@ -216,7 +216,7 @@ Continue working on final project. Push project code to a new _Final_ folder in 
 ***
 
 ### Week 09 (12/4)
-* Hosting your web site (w/[github pages](https://pages.github.com/))
+* Hosting your web site (w/ [github pages](https://pages.github.com/))
 * Go over final project 
   * In class work time
 
