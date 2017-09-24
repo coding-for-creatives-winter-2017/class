@@ -33,7 +33,7 @@ Grades will be determined according to the following breakdowns:
 
 ***
 
-### Week 1 (10/2)
+### Week 01 (10/2)
 * Introductions
 * Syllabus review & expectations
 * Technologies past, present and future
@@ -47,10 +47,12 @@ Grades will be determined according to the following breakdowns:
 * In-class setup demonstration
 	* Using Github via the command line 
 
+[Week 01 Assignment & Notes](https://github.com/coding-for-creatives-winter-2017/class/wiki/Week-01)
+
 
 ***
 
-### Week 2 (10/16)
+### Week 02 (10/16)
 * Assignment review
   * More on Github/terminal
   * HTML/CSS Q&A
@@ -69,10 +71,12 @@ Grades will be determined according to the following breakdowns:
 	* What is open source code
 * In class work session
 
+[Week 02 Assignment & Notes](https://github.com/coding-for-creatives-winter-2017/class/wiki/Week-02)
+
 
 ***
 
-### Week 3 (10/23)
+### Week 03 (10/23)
 * Assignment review 
   * HTML/CSS review
 * Reading discussion
@@ -87,10 +91,12 @@ Grades will be determined according to the following breakdowns:
 * More CSS & introduction to Bootstrap (CSS)
 * Using [simpleHTTPserver](https://github.com/processing/p5.js/wiki/Local-server)
 
+[Week 03 Assignment & Notes](https://github.com/coding-for-creatives-winter-2017/class/wiki/Week-03)
+
 
 ***
 
-### Week 4 (10/30)
+### Week 04 (10/30)
 * Assignment review
 * DOM & HTML Review (head, body)
   * Organizing your code
@@ -118,10 +124,12 @@ Grades will be determined according to the following breakdowns:
 **Assignment**
 * Work with your group on your presentation
 
+[Week 04 Assignment & Notes](https://github.com/coding-for-creatives-winter-2017/class/wiki/Week-04)
+
 
 ***
 
-### Week 5 (11/6)
+### Week 05 (11/6)
 * Assignment review
 * Programming concepts (using p5.js)
   * Review (Q&A)
@@ -140,10 +148,12 @@ Grades will be determined according to the following breakdowns:
 * Work with your group on your presentation
 * Brainstorm on ideas for your final project
 
+[Week 05 Assignment & Notes](https://github.com/coding-for-creatives-winter-2017/class/wiki/Week-05)
+
 
 ***
 
-### Week 6 (11/13)
+### Week 06 (11/13)
 * Assignment review
 * Programming concepts (using p5.js)
   * Review (Q&A)
@@ -162,10 +172,12 @@ Grades will be determined according to the following breakdowns:
 **Assignment**
 * Finalize your final project idea
 
+[Week 06 Assignment & Notes](https://github.com/coding-for-creatives-winter-2017/class/wiki/Week-06)
+
 
 ***
 
-### Week 7 (11/20)
+### Week 07 (11/20)
 * Assignment review
   * JS review (functions, objects, etc.)
 * Present final project idea
@@ -175,10 +187,12 @@ Grades will be determined according to the following breakdowns:
 **Assignment**
 Start working on final project. Present progress (updated sketches/mockups and code) next week.
 
+[Week 07 Assignment & Notes](https://github.com/coding-for-creatives-winter-2017/class/wiki/Week-07)
+
 
 ***
 
-### Week 8 (11/27)
+### Week 08 (11/27)
 * Guest speaker
 * Present final project sketches/mockups or code
 * Creative tech overview
@@ -187,10 +201,12 @@ Start working on final project. Present progress (updated sketches/mockups and c
 **Assignment**
 Continue working on final project. Push project code to a new _Final_ folder in your _Coding-for-creatives-class_ repository. Present progress next week.
 
+[Week 08 Assignment & Notes](https://github.com/coding-for-creatives-winter-2017/class/wiki/Week-08)
+
 
 ***
 
-### Week 9 (12/4)
+### Week 09 (12/4)
 * Hosting your web site (w/[github pages](https://pages.github.com/))
 * Go over final project 
   * In class work time
@@ -201,9 +217,13 @@ Continue working on final project. Push project code to a new _Final_ folder in 
   * _Optional: host your sketch/site with Github pages_ 
 * Sign up for your one-on-one review
 
+[Week 09 Assignment & Notes](https://github.com/coding-for-creatives-winter-2017/class/wiki/Week-09)
+
 
 ***
 
 ### Week 10 (3/7)
 * Guest speaker
 * Final project presentations
+
+[Week 10 Assignment & Notes](https://github.com/coding-for-creatives-winter-2017/class/wiki/Week-10)
