@@ -28,7 +28,7 @@ Grades will be determined according to the following breakdowns:
 
 ## Resources
 
-* [All resources](https://github.com/coding-for-creatives-winter-2017/class/wiki/Assignment-Resources)
+* [Important resources](https://github.com/coding-for-creatives-winter-2017/class/wiki/Resources)
 
 
 ## Week by week 
