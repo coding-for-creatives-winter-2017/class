@@ -55,6 +55,7 @@ This is an outline for each week of class. Details for each week are available i
   * Terminal & command line
 
 
+[Week 01 Slides](https://docs.google.com/presentation/d/1jp_5tyHp000IWKUi-kyLt-vZ5dZj6Od_Wny1EMqhKHM/edit?usp=sharing)
 [Week 01 Assignment & Notes](https://github.com/coding-for-creatives-winter-2017/class/wiki/Week-01)
 
 
