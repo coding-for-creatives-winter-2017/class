@@ -55,7 +55,7 @@ This is an outline for each week of class. Details for each week are available i
   * Terminal & command line
 
 
-[Week 01 Slides](https://docs.google.com/presentation/d/1jp_5tyHp000IWKUi-kyLt-vZ5dZj6Od_Wny1EMqhKHM/edit?usp=sharing)
+[Week 01 Slides](https://docs.google.com/presentation/d/1jp_5tyHp000IWKUi-kyLt-vZ5dZj6Od_Wny1EMqhKHM/edit?usp=sharing)<br>
 [Week 01 Assignment & Notes](https://github.com/coding-for-creatives-winter-2017/class/wiki/Week-01)
 
 
@@ -81,6 +81,7 @@ This is an outline for each week of class. Details for each week are available i
 	* What is open source code
 * In class work session
 
+[Week 02 Slides](#) _(TBA)_<br>
 [Week 02 Assignment & Notes](https://github.com/coding-for-creatives-winter-2017/class/wiki/Week-02)
 
 
@@ -101,6 +102,7 @@ This is an outline for each week of class. Details for each week are available i
 * More CSS & introduction to Bootstrap (CSS)
 * Using [simpleHTTPserver](https://github.com/processing/p5.js/wiki/Local-server)
 
+[Week 03 Slides](#) _(TBA)_<br>
 [Week 03 Assignment & Notes](https://github.com/coding-for-creatives-winter-2017/class/wiki/Week-03)
 
 
@@ -134,6 +136,7 @@ This is an outline for each week of class. Details for each week are available i
 **Assignment**
 * Work with your group on your presentation
 
+[Week 04 Slides](#) _(TBA)_<br>
 [Week 04 Assignment & Notes](https://github.com/coding-for-creatives-winter-2017/class/wiki/Week-04)
 
 
@@ -158,6 +161,7 @@ This is an outline for each week of class. Details for each week are available i
 * Work with your group on your presentation
 * Brainstorm on ideas for your final project
 
+[Week 05 Slides](#) _(TBA)_<br>
 [Week 05 Assignment & Notes](https://github.com/coding-for-creatives-winter-2017/class/wiki/Week-05)
 
 
@@ -182,6 +186,7 @@ This is an outline for each week of class. Details for each week are available i
 **Assignment**
 * Finalize your final project idea
 
+[Week 06 Slides](#) _(TBA)_<br>
 [Week 06 Assignment & Notes](https://github.com/coding-for-creatives-winter-2017/class/wiki/Week-06)
 
 
@@ -197,6 +202,7 @@ This is an outline for each week of class. Details for each week are available i
 **Assignment**
 Start working on final project. Present progress (updated sketches/mockups and code) next week.
 
+[Week 07 Slides](#) _(TBA)_<br>
 [Week 07 Assignment & Notes](https://github.com/coding-for-creatives-winter-2017/class/wiki/Week-07)
 
 
@@ -211,6 +217,7 @@ Start working on final project. Present progress (updated sketches/mockups and c
 **Assignment**
 Continue working on final project. Push project code to a new _Final_ folder in your _Coding-for-creatives-class_ repository. Present progress next week.
 
+[Week 08 Slides](#) _(TBA)_<br>
 [Week 08 Assignment & Notes](https://github.com/coding-for-creatives-winter-2017/class/wiki/Week-08)
 
 
@@ -227,6 +234,7 @@ Continue working on final project. Push project code to a new _Final_ folder in 
   * _Optional: host your sketch/site with Github pages_ 
 * Sign up for your one-on-one review
 
+[Week 09 Slides](#) _(TBA)_<br>
 [Week 09 Assignment & Notes](https://github.com/coding-for-creatives-winter-2017/class/wiki/Week-09)
 
 
@@ -236,4 +244,5 @@ Continue working on final project. Push project code to a new _Final_ folder in 
 * Guest speaker
 * Final project presentations
 
+[Week 10 Slides](#) _(TBA)_<br>
 [Week 10 Assignment & Notes](https://github.com/coding-for-creatives-winter-2017/class/wiki/Week-10)
