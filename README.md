@@ -81,7 +81,7 @@ This is an outline for each week of class. Details for each week are available i
 	* What is open source code
 * In class work session
 
-[Week 02 Slides](#) _(TBA)_<br>
+[Week 02 Slides](https://docs.google.com/presentation/d/1VXFL4AvBzAmWxjd4yL9giLvMkAX7O1-b0esDh1VuOKw/edit?usp=sharing)<br>
 [Week 02 Assignment & Notes](https://github.com/coding-for-creatives-winter-2017/class/wiki/Week-02)
 
 
