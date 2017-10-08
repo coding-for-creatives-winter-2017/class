@@ -61,7 +61,7 @@ This is an outline for each week of class. Details for each week are available i
 
 ***
 
-### Week 02 (10/16)
+### Week 02 (10/9)
 * Assignment review
   * More on Github
   * Terminal commands and usage
@@ -87,7 +87,7 @@ This is an outline for each week of class. Details for each week are available i
 
 ***
 
-### Week 03 (10/23)
+### Week 03 (10/16)
 * Assignment review 
   * HTML/CSS review
 * Reading discussion
@@ -108,7 +108,7 @@ This is an outline for each week of class. Details for each week are available i
 
 ***
 
-### Week 04 (10/30)
+### Week 04 (10/23)
 * Assignment review
 * DOM & HTML Review (head, body)
   * Organizing your code
@@ -142,7 +142,7 @@ This is an outline for each week of class. Details for each week are available i
 
 ***
 
-### Week 05 (11/6)
+### Week 05 (10/30)
 * Assignment review
 * Programming concepts (using p5.js)
   * Review (Q&A)
@@ -167,7 +167,7 @@ This is an outline for each week of class. Details for each week are available i
 
 ***
 
-### Week 06 (11/13)
+### Week 06 (11/6)
 * Assignment review
 * Programming concepts (using p5.js)
   * Review (Q&A)
@@ -192,7 +192,7 @@ This is an outline for each week of class. Details for each week are available i
 
 ***
 
-### Week 07 (11/20)
+### Week 07 (11/13)
 * Assignment review
   * JS review (functions, objects, etc.)
 * Present final project idea
@@ -208,7 +208,7 @@ Start working on final project. Present progress (updated sketches/mockups and c
 
 ***
 
-### Week 08 (11/27)
+### Week 08 (11/20)
 * Guest speaker
 * Present final project sketches/mockups or code
 * Creative tech overview
@@ -223,7 +223,7 @@ Continue working on final project. Push project code to a new _Final_ folder in 
 
 ***
 
-### Week 09 (12/4)
+### Week 09 (11/27)
 * Hosting your web site (w/ [github pages](https://pages.github.com/))
 * Go over final project 
   * In class work time
@@ -240,7 +240,7 @@ Continue working on final project. Push project code to a new _Final_ folder in 
 
 ***
 
-### Week 10 (3/7)
+### Week 10 (12/4)
 * Guest speaker
 * Final project presentations
 
