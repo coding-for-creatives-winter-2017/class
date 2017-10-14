@@ -103,7 +103,7 @@ This is an outline for each week of class. Details for each week are available i
 * Setting up [Glitch](https://glitch.com)
 * Using [simpleHTTPserver](https://github.com/processing/p5.js/wiki/Local-server)
 
-[Week 03 Slides](#) _(TBA)_<br>
+[Week 03 Slides](https://docs.google.com/presentation/d/11ObRiRqYl2XkypxuA9x0w2VVCDy1sg8eNj9NDQVhbOk/edit?usp=sharing)<br>
 [Week 03 Assignment & Notes](https://github.com/coding-for-creatives-winter-2017/class/wiki/Week-03)
 
 
