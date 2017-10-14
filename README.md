@@ -100,6 +100,7 @@ This is an outline for each week of class. Details for each week are available i
   	* [paper.js](http://paperjs.org/)
 * What is Document Object Model (Q&As)
 * More CSS & introduction to Bootstrap (CSS)
+* Setting up [Glitch](https://glitch.com)
 * Using [simpleHTTPserver](https://github.com/processing/p5.js/wiki/Local-server)
 
 [Week 03 Slides](#) _(TBA)_<br>
