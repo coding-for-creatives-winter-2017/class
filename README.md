@@ -137,7 +137,7 @@ This is an outline for each week of class. Details for each week are available i
 **Assignment**
 * Work with your group on your presentation
 
-[Week 04 Slides](#) _(TBA)_<br>
+[Week 04 Slides](https://docs.google.com/presentation/d/1G61Uq5jNB0uYibHhQIylB7QQ8h5f9mvPqnAZeZ2lrAo/edit?usp=sharing)<br>
 [Week 04 Assignment & Notes](https://github.com/coding-for-creatives-winter-2017/class/wiki/Week-04)
 
 
