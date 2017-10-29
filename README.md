@@ -162,7 +162,7 @@ This is an outline for each week of class. Details for each week are available i
 * Work with your group on your presentation
 * Brainstorm on ideas for your final project
 
-[Week 05 Slides](#) _(TBA)_<br>
+[Week 05 Slides](https://docs.google.com/presentation/d/1gimO5_y0_M9T_7nlzDQd7T4MVB6xvkreDrK11JzaAws/edit?usp=sharing)<br>
 [Week 05 Assignment & Notes](https://github.com/coding-for-creatives-winter-2017/class/wiki/Week-05)
 
 
