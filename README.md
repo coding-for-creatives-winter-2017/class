@@ -172,12 +172,12 @@ This is an outline for each week of class. Details for each week are available i
 * Assignment review
 * Programming concepts (using p5.js)
   * Review (Q&A)
-  * Functions
-  * Arrays
-  * Object oriented programming overview
-  * Objects
-    * Classes
-    * Constructors
+    * Functions
+    * Arrays
+    * Object oriented programming overview
+    * Objects
+      * Classes
+      * Constructors
 * Creative tech overview
   * How it works
   * How to utilize technology & creativity
@@ -187,7 +187,7 @@ This is an outline for each week of class. Details for each week are available i
 **Assignment**
 * Finalize your final project idea
 
-[Week 06 Slides](#) _(TBA)_<br>
+[Week 06 Slides](https://docs.google.com/presentation/d/1nvgywh8ivQ6V9Slak2sTyNzH9fpxBZb4TknMCsNxuyY/edit?usp=sharing)<br>
 [Week 06 Assignment & Notes](https://github.com/coding-for-creatives-winter-2017/class/wiki/Week-06)
 
 
