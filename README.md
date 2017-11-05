@@ -179,10 +179,10 @@ This is an outline for each week of class. Details for each week are available i
     * Classes
     * Constructors
 * Creative tech overview
-  * Group presentation
   * How it works
-* Go over final project ideas 
-* More browser based inspirations
+  * How to utilize technology & creativity
+* Go over final project requirements & ideas
+* More inspirations
 
 **Assignment**
 * Finalize your final project idea
@@ -198,7 +198,7 @@ This is an outline for each week of class. Details for each week are available i
   * JS review (functions, objects, etc.)
 * Present final project idea
 * Creative tech overview
-  * Group presentation
+  * Group presentations (Group 1 & 2)
 
 **Assignment**
 Start working on final project. Present progress (updated sketches/mockups and code) next week.
@@ -212,8 +212,6 @@ Start working on final project. Present progress (updated sketches/mockups and c
 ### Week 08 (11/20)
 * Guest speaker
 * Present final project sketches/mockups or code
-* Creative tech overview
-  * Group presentation
 
 **Assignment**
 Continue working on final project. Push project code to a new _Final_ folder in your _Coding-for-creatives-class_ repository. Present progress next week.
@@ -226,6 +224,8 @@ Continue working on final project. Push project code to a new _Final_ folder in 
 
 ### Week 09 (11/27)
 * Hosting your web site (w/ [github pages](https://pages.github.com/))
+* Creative tech overview
+  * Group presentation (3 & 4)
 * Go over final project 
   * In class work time
 
